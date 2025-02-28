@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Aziz, a passionate developer specializing in the world of IoT and Cybersecurity.  
-🌱 I’m currently learning on how to securize IoT devices.  
+🌱 I’m currently learning how to securize IoT devices.  
 💬 We can talk about IoT related subjects!  
 📫 How to reach me on my email: khitmiaziz@gmail.com.  
 
